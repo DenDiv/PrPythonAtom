@@ -1,0 +1,17 @@
+1540398286896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3ovJnydov8Fm"
+
+(firefox:3843): Gtk-WARNING **: 19:24:52.605: Theme parsing error: <data>:1:34: Expected ')' in color definition
+
+(firefox:3843): Gtk-WARNING **: 19:24:52.605: Theme parsing error: <data>:1:77: Expected ')' in color definition
+1540398299063	Marionette	INFO	Listening on port 39383
+1540398299161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1540398299342	Marionette	DEBUG	[2147483649] Frame script loaded
+1540398299429	Marionette	DEBUG	[2147483649] Frame script registered
+1540398299919	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1540398301328	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1540398301647	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.google.com/
+1540398303325	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.google.com/
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.google.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.google.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.google.com
+1540399651699	Marionette	INFO	Stopped listening on port 39383
